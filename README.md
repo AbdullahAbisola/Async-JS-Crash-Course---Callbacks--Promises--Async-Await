@@ -6,4 +6,4 @@ ASync JS is a way of handling JavaScript code execution in a non-blocking way. I
 
 Async JavaScript, on the other hand, allows the browser to continue executing other code while a script is running. This is achieved through the use of callback functions, promises, and async/await.
 
-**Look at the ![Promise.js](promise.js) and the ![Callback.js](callback.js) files for more info**
+**Look at the [Promise.js](promise.js) and the [Callback.js](callback.js) files for more info**
